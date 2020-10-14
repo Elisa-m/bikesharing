@@ -8,15 +8,21 @@ Visuals used for the analysis can be accessed through Tableau Public link here: 
 ## Results
 1. Rider Demographic
 
+![](demographics.png)
 
 2. Trip Duration
 
+![](trip_duration.png)
+![](checkout_times_byGender.png)
 
 3. Trip Quantity
 
+![](trip_quantity.png)
+![](user_trips_byGenderbyWeekday.png)
 
 4. Top Locations
 
+![](top_locations.png)
 
 Results:
 
