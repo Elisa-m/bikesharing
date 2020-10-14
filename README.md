@@ -30,7 +30,7 @@ Visuals used for the analysis can be accessed through Tableau Public link here: 
 ![](trip_quantity.png)
 ![](user_trips_byGenderbyWeekday.png)
 
-## Summary:
+## Conclusion
 Based on the findings above we can make the following assumptions: 
 1. Most users are subscribers and use bikeshare to and from work. To further validate this assumption, starting locations from 5:00 pm to 7:00pm and ending locations from 8:00 am to 9:00 am need to be visualized through a map to see if these locations are near office buldings.  
 2. Males use bikeshare twice as much as females. Yet, it may be that there are more males in New York City than females. Additionally, there may be more males working in New York City than females, since we are assuming that most users are using bikeshare to and from work. Two pie chart visualizations would need to be created for further clarity: one for the female and male New York City population split and another for for the female and male New York City employed population split. 
